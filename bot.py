@@ -1,1 +1,0 @@
-# tradexa-copy-bot
